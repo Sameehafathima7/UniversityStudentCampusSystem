@@ -6,6 +6,7 @@ public class ActionStack {
 
     private Stack<String> actions;
 
+    // Verified Stack LIFO order - Suha
     public ActionStack() {
         actions = new Stack<>();
     }
