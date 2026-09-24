@@ -2,6 +2,7 @@ package universitysystem;
 
 import java.util.*;
 
+// Verified Graph operations and BFS traversal - Asfa
 public class CampusGraph {
 
     // Adjacency List
